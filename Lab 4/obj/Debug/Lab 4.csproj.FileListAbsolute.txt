@@ -1,0 +1,7 @@
+C:\git\Lab 4\Lab 4\bin\Debug\Lab 4.exe.config
+C:\git\Lab 4\Lab 4\bin\Debug\Lab 4.exe
+C:\git\Lab 4\Lab 4\bin\Debug\Lab 4.pdb
+C:\git\Lab 4\Lab 4\obj\Debug\Lab 4.csprojAssemblyReference.cache
+C:\git\Lab 4\Lab 4\obj\Debug\Lab 4.csproj.CoreCompileInputs.cache
+C:\git\Lab 4\Lab 4\obj\Debug\Lab 4.exe
+C:\git\Lab 4\Lab 4\obj\Debug\Lab 4.pdb
